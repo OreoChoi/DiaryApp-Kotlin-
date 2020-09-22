@@ -12,4 +12,8 @@ open class BaseActivity:AppCompatActivity(){
     protected fun toast(msg:String){
         Toast.makeText(this@BaseActivity,msg,Toast.LENGTH_LONG).show()
     }
+
+    protected fun toast(msg:Int){
+        Toast.makeText(this@BaseActivity,"$msg",Toast.LENGTH_LONG).show()
+    }
 }

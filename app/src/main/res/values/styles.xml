@@ -15,8 +15,16 @@
         <item name="android:textSize">18sp</item>
     </style>
 
+    <!-- Tab의 기본 스타일 -->
     <style name="TitleTab">
         <item name="android:textColor">@color/colorWhite</item>
         <item name="android:textSize">20sp</item>
+    </style>
+
+    <!-- Tab의 기본 스타일 -->
+    <style name="TitleTabBold">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
     </style>
 </resources>
