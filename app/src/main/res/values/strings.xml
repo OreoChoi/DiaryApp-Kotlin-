@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+    <string name="tab_diary">Diary</string>
+    <string name="tab_write">Write</string>
+</resources>
